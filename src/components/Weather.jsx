@@ -61,7 +61,7 @@ export default function Weather() {
   }
 
 useEffect(()=>{
-  search("New York")
+  search("Paris")
 },[])
 
   return (
